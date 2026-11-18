@@ -1,0 +1,14 @@
+# Links shown in the header, in order. To add a section later (e.g.
+# Publications, Portfolio, Blog Posts), add an entry here:
+#   - title: "Publications"
+#     url: /publications/
+
+main:
+  - title: "Talks"
+    url: /talks/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "CV"
+    url: /cv/
